@@ -13,3 +13,4 @@ Number | Note | Date | Author | PR / Commit
 3 | To remove CRO duties from the VP of communications (and separately, but importantly, adding feedback to their role) | 2019-01-22 | @jenniferwills | 5df96fa58c28e5e2e95ebdf6490ddd2667175065
 4 | clarify election details | 2019-01-22 | @jenniferwills | 15a9a97d8f3de0e731b2995af9e5bd8077457481
 5 | To change the executive elected term to 2 terms, to allow for a more varied representation of the student body | 2019-01-22 | @jenniferwills | 58b36dfd0ba5fa901b2aae6016ea4ea43523b14d
+6 | To increase specificity around voting rights of members who are off-term, as the current document is ambiguous | 2019-02-19 | @jenniferwills | a822a369992571848a3875f37f5f53776b1c631c
