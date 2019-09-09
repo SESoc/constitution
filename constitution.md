@@ -72,10 +72,10 @@ accountable for those events and functions.
 
 Membership in the Society will be restricted to those full time 
 undergraduate students in the Software Engineering program at the 
-University of Waterloo. Members of the society shall be entitled to voting 
-rights in elections and at All Class General Meetings (ACGM), and shall be 
-eligible to run for office (See Article 6 ‘Elections’ and Article 5 
-‘Meetings’).
+University of Waterloo. Members of the on-term society shall be entitled to voting
+rights in elections. All members shall have voting rights at All Class General Meetings (ACGM),
+and all on-term members shall be eligible to run for office (See Article 6 ‘Elections’
+and Article 5 ‘Meetings’).
 
 There shall be two (2) types of Members:
 
