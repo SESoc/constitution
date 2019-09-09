@@ -215,11 +215,16 @@ during the current academic term if there is more than 1 month remaining;
 otherwise, it will be run at the beginning of the following academic term.
 
 ### 6.2 Class rep elections
-
 Social rep elections will be held in the class seminar during the first 
 week of classes. Each class will have a maximum of two class 
 representatives. For 1A and 1B classes, there is an exception: they will 
 be allowed 3 Social reps.
+
+### 6.3 Chief Returning Officer
+
+There shall be a Chief Returning Officer (CRO) elected from the on-term members the academic term before an Executive Election. The CRO will be responsible for conducting all aspects of the Executive Election. The CRO may appoint up to one Deputy Returning Officer (DRO) from the on-term members at any time, who will assist with the coordination of the election.
+
+The CRO and DRO must not be candidates for any executive position. The term of office for a CRO extends to the final day of the Academic term of the election.
 
 ## 7.0 Impeachment
 
