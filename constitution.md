@@ -138,9 +138,9 @@ The Vice-President Communications shall
 
 ### 4.3 General Council
 
-The General council consists of the executive council listed above as well 
-as two social reps, three in the case of a 1A or 1B class. The social reps 
-will be elected as outlined in 6.2; their terms will last one academic 
+The General council consists of the on-term executive council listed above as well
+as two social reps per class currently on-term, three in the case of a 1A or 1B class.
+The social reps will be elected as outlined in 6.2; their terms will last one academic
 term, unless removed for any reason as listed under 7.0.
 
 ## 5.0 Meetings
