@@ -191,10 +191,10 @@ deciding what should be mentioned and discussed from their outgoing term.
 
 ### 6.1 Executive elections
 
-Elections will be held in the middle of every winter term. The position 
-will be held by the person for two consecutive years starting the co-op 
-term immediately following the election. This means the executive will 
-have 3 academic terms as an exec.
+Executive elections will be held every second academic term for each society.
+The position will be held for 4 consecutive terms starting the first day of
+the co-op term immediately following an election. This will give each elected
+Executive 2 academic terms on the Executive Council.
 
 In order to run for any elected position, the student must currently be 
 enrolled in the Software Engineering program at the University of 
