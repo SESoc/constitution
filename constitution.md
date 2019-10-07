@@ -272,6 +272,6 @@ B-Soc:
 There will be no temporary VP-Finance, and that role will fall under the 
 President (since many of its roles should not be active yet).
 
-8.0 Amending the Constitution
+## 9.0 Amending the Constitution
 
 The constitution may be amended by a motion at a general meeting , and may be changed via a two thirds majority so long as quorum (50% of available members) is met. That amendment will be enacted starting the meeting it is approved, but must be ratified by the off-stream General Council the following term to be fully introduced into the constitution. If the amendment is not ratified by both councils within 2 terms, the constitution will be reverted to its prior form.
