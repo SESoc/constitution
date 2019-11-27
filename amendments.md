@@ -12,3 +12,4 @@ Number | Note | Date | Author | PR / Commit
 2 | Change the formatting of the Amendments clause and change number to 9.0 | 2019-10-07 | @jenniferwills |9dff1e894d04542e058a2872b86a432277f315a8 
 3 | CRO and election details | 2019-01-22 | @jenniferwills | 5a6fafe13ee944cf7d80271192186e306f17bc1e
 4 | To remove CRO duties from the VP of communications (and separately, but importantly, adding feedback to their role) | 2019-01-22 | @jenniferwills | 5df96fa58c28e5e2e95ebdf6490ddd2667175065
+5 | clarify election details | 2019-01-22 | @jenniferwills | 15a9a97d8f3de0e731b2995af9e5bd8077457481

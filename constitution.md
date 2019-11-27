@@ -200,12 +200,50 @@ In order to run for any elected position, the student must currently be
 enrolled in the Software Engineering program at the University of 
 Waterloo. In order to run for the position of President, said student must 
 have been in the SE program for strictly greater than 1 calendar year.
+ The student must intend to be an on-term member of the Society for which
+ they are running for the next 2 academic terms.
+
 
 All candidates for executive positions will have a spending limit of $25 
 for their campaigns. All money for campaigns will not be reimbursed by the 
-society.
+society. There shall be a period of at least 5 days for campaigning.
+The candidates may not address classes about the election outside of times
+arranged by the CRO.
 
-#### 6.1.1 Special elections
+#### 6.1.1 Nominations
+The nomination period will be run by the CRO, for a minimum of 5 days.
+To run for a VP position, a student must receive at least 15 nominations,
+and to run for president, a student must receive at least 25 nominations.
+A student may not be nominated for more than one Executive position in a given
+election.
+
+#### 6.1.2 Voting
+Voting shall be done in a secure method approved by the General Council over a
+period of at least 2 days. In the event there is only one candidate running for
+a position, voters shall vote either "yes" or "no" on the ballot to approve or
+disapprove of the candidate. The candidate must attain a majority of votes to be
+elected.
+
+When there is more than one candidate for a position, they will be elected via
+a single transferable vote system. Voters shall rank candidates on their ballot
+in order of preference. Voters may rank as many or as few candidates as they prefer.
+There shall also be a "No Candidate" option on each ballot. The winner of each
+election shall be determined as follows:
+* A Candidate’s vote total shall initially be the total of their first place votes
+* If a Candidate’s vote total is a majority of the ballots, they shall be declared elected
+* If no Candidate has a majority of votes, the candidate with the fewest votes shall
+be eliminated, and the next-place votes from their ballots shall be transferred to
+the other Candidate’s vote totals
+* Ballots from an eliminated Candidate that contain no further votes shall be
+transferred to the “No Candidate” option
+* If a Candidate now has a majority of the total votes, they are declared elected.
+Otherwise, the procedure outlined above shall be repeated until a Candidate’s total
+is greater than half the total number of votes
+* If no Candidate wins a clear majority of votes, nominations for the position shall
+re-open as soon as possible, and the election shall be re-run
+
+
+#### 6.1.3 Special elections
 
 In the case an executive is no longer able to hold their executive 
 position, a special election will be held. The other case in which a 
@@ -213,12 +251,15 @@ special election is permitted is if the winter election period was missed
 and no executives have been elected. The special election will be held 
 during the current academic term if there is more than 1 month remaining; 
 otherwise, it will be run at the beginning of the following academic term.
+It shall be run in the same form as 6.1.2
 
 ### 6.2 Class rep elections
-Social rep elections will be held in the class seminar during the first 
-week of classes. Each class will have a maximum of two class 
-representatives. For 1A and 1B classes, there is an exception: they will 
-be allowed 3 Social reps.
+SE Society Representative elections will be held in the class seminar during the first
+week of classes. A current member of the Executive Council may not run for SE Society Rep.
+Each class will have a maximum of two class representatives. For 1A and 1B classes,
+there is an exception: they will be allowed 3 Social reps. Each member of the class
+will receive the number of votes as positions open (2 for upper year classes, 3 for
+first year classes). The candidates with the most votes will be elected.
 
 ### 6.3 Chief Returning Officer
 
