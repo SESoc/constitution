@@ -134,7 +134,7 @@ The Vice-President Communications shall
 
 * Handle promotion of events, email blasts, Facebook events, etc.
 * Be in charge of recruiting photographers for events
-* Be in charge of publicizing elections
+* Be in charge of soliciting feedback from members of the Society, and using that to inform actions and events run by the council
 
 ### 4.3 General Council
 
