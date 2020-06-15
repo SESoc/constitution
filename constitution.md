@@ -72,10 +72,10 @@ accountable for those events and functions.
 
 Membership in the Society will be restricted to those full time 
 undergraduate students in the Software Engineering program at the 
-University of Waterloo. Members of the society shall be entitled to voting 
-rights in elections and at All Class General Meetings (ACGM), and shall be 
-eligible to run for office (See Article 6 ‘Elections’ and Article 5 
-‘Meetings’).
+University of Waterloo. Members of the on-term society shall be entitled to voting
+rights in elections. All members shall have voting rights at All Class General Meetings (ACGM),
+and all on-term members shall be eligible to run for office (See Article 6 ‘Elections’
+and Article 5 ‘Meetings’).
 
 There shall be two (2) types of Members:
 
@@ -318,6 +318,6 @@ B-Soc:
 There will be no temporary VP-Finance, and that role will fall under the 
 President (since many of its roles should not be active yet).
 
-8.0 Amending the Constitution
+## 9.0 Amending the Constitution
 
 The constitution may be amended by a motion at a general meeting , and may be changed via a two thirds majority so long as quorum (50% of available members) is met. That amendment will be enacted starting the meeting it is approved, but must be ratified by the off-stream General Council the following term to be fully introduced into the constitution. If the amendment is not ratified by both councils within 2 terms, the constitution will be reverted to its prior form.
