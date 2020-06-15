@@ -154,8 +154,11 @@ meetings held during finals or between terms would be optional and
 therefore there would be no penalty for missing them.
 
 Every General Council Meeting will have an agenda released before the 
-start which outlines the topics to be discussed in that meeting. Every 
-meeting, except the first of the term, starts with the approval of the 
+start which outlines the topics to be discussed in that meeting.
+A meeting may only be called to order when a quorum of 50% of General Council
+members are present, no motions may be voted on if quorum is not met, but points
+of information can still be presented.
+Every meeting, except the first of the term, starts with the approval of the 
 minutes from the last meeting. Execs are expected to give an update on 
 what they’ve done since the last meeting. Following the exec updates, any 
 EngSoc, MathSoc, WEEF or MEF reps that want to share things with SE will 
@@ -320,4 +323,4 @@ President (since many of its roles should not be active yet).
 
 ## 9.0 Amending the Constitution
 
-The constitution may be amended by a motion at a general meeting , and may be changed via a two thirds majority so long as quorum (50% of available members) is met. That amendment will be enacted starting the meeting it is approved, but must be ratified by the off-stream General Council the following term to be fully introduced into the constitution. If the amendment is not ratified by both councils within 2 terms, the constitution will be reverted to its prior form.
+The constitution may be amended by a motion at a general meeting , and may be changed via a two thirds majority. That amendment will be enacted starting the meeting it is approved, but must be ratified by the off-stream General Council the following term to be fully introduced into the constitution. If the amendment is not ratified by both councils within 2 terms, the constitution will be reverted to its prior form.
