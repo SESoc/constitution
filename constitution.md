@@ -143,6 +143,18 @@ as two social reps, three in the case of a 1A or 1B class. The social reps
 will be elected as outlined in 6.2; their terms will last one academic 
 term, unless removed for any reason as listed under 7.0.
 
+### 4.4 Policies
+
+Any on-term council or ACGM can pass a policy with a simple majority (>50%) vote. Policies are directives that are subordinate or less powerful to the constitution, but must still be adhered to by the society as a whole. Every policy must have an expiry date or sunset clause not longer than 2 years from the date of passing; at that time, a council or ACGM can review, renew, or delete the expiring/expired policy with another simple majority vote.
+
+All passed policies should be made available within a reasonable time  frame of passing on the SE Soc GitHub repository or on the SE Soc website.
+
+### 4.5 Procedures
+
+Any on-term council or ACGM can pass a procedure with a simple majority (>50%) vote. Procedures are guidelines that come subordinate to policies and the constitution, and the Society is advised to follow procedures unless a reasonable justification is made otherwise.
+
+All procedures should also be made available within a reasonable time frame of passing, on the SE Soc GitHub repository or on the SE Soc website.
+
 ## 5.0 Meetings
 
 ### 5.1 General council meetings
