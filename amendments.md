@@ -15,3 +15,4 @@ Number | Note | Date | Author | PR / Commit
 5 | clarify election details | 2019-01-22 | @jenniferwills | 15a9a97d8f3de0e731b2995af9e5bd8077457481
 6 | To change the executive elected term to 2 terms, to allow for a more varied representation of the student body | 2019-01-22 | @jenniferwills | 58b36dfd0ba5fa901b2aae6016ea4ea43523b14d
 7 | To increase specificity around voting rights of members who are off-term, as the current document is ambiguous | 2019-02-19 | @jenniferwills | a822a369992571848a3875f37f5f53776b1c631c
+10 | Delegating some authority to policies and procedures that do not require society-wide consent. | 2019-02-19 |  @jenniferwills  | 4fc6b5292cee1171154f47c1e3520fc88f08f945
